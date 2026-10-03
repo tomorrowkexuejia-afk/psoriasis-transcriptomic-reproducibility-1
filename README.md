@@ -1,5 +1,12 @@
 # Psoriasis transcriptomic reproducibility archive v1.0
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23118928.svg)](https://doi.org/10.5281/zenodo.23118928)
+
+**Permanent archive (version DOI, v1.0.0): https://doi.org/10.5281/zenodo.23118928**
+Concept DOI (always latest version): https://doi.org/10.5281/zenodo.23118927
+Source repository: https://github.com/tomorrowkexuejia-afk/psoriasis-transcriptomic-reproducibility-1
+Licence: CC BY 4.0
+
 This archive contains the processed inputs, evidence files, analysis code, numerical outputs, sensitivity analyses, paired audit-impact analyses, and publication figures supporting the study:
 
 **Dataset provenance, sample overlap and direction preservation in cross-cohort reproducibility of transcriptomic biomarker claims: an empirical methodological study in psoriasis**

@@ -28,7 +28,8 @@ authors:
 version: 1.0.0
 date-released: "2026-09-17"
 license: CC-BY-4.0
-repository-code: "https://github.com/REPLACE_WITH_YOUR_USERNAME/psoriasis-transcriptomic-reproducibility"
+repository-code: "https://github.com/tomorrowkexuejia-afk/psoriasis-transcriptomic-reproducibility-1"
+url: "https://doi.org/10.5281/zenodo.23118928"
 keywords:
   - reproducibility
   - transcriptomics
@@ -40,8 +41,8 @@ keywords:
   - public data
 identifiers:
   - type: doi
-    value: "REPLACE_WITH_ZENODO_DOI_AFTER_MINTING"
-    description: "Zenodo DOI for this archived release. Fill in after Zenodo assigns it; do not invent a DOI."
+    value: "10.5281/zenodo.23118928"
+    description: "Zenodo version DOI for release v1.0.0. Cite this DOI to pin the exact archived code and outputs. The concept DOI (always latest) is 10.5281/zenodo.23118927."
 preferred-citation:
   type: article
   title: "Dataset provenance, sample overlap and direction preservation in cross-cohort reproducibility of transcriptomic biomarker claims: an empirical methodological study in psoriasis"
