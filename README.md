@@ -63,6 +63,19 @@ retained so that the build script keeps reproducing the archived names byte-for-
 
 Adding the `_mHK` figure files and `make_forest_mHK.py` postdates the Zenodo v1.0.0 deposit; the
 deposited v1.0.0 snapshot is unchanged.
+
+### Wording difference between the archived figures and the submitted manuscript
+
+Three archived figures were generated before the final wording was fixed and still use the earlier
+terminology inside the panel labels (`holdout`, `Confirmed source reuse`, `Candidate inventory`),
+whereas the submitted manuscript uses `separate RNA-seq cohort`, `17 source-used cohort tests
+excluded` and `5 PANoptosis claims excluded`. Every number is identical between the two versions;
+only the in-figure wording (and the Figure 1 layout) differs.
+
+Per the versioning rule below, the deposited files in `core_analysis/figures/` were **not** modified.
+The figures exactly as submitted — extracted byte-for-byte from the final manuscript file — are
+provided additively in `core_analysis/figures_manuscript_final/`, together with a table of the
+wording differences. Use that directory when reconciling the archive against the published article.
 - `core_analysis/audit_impact/` — paired provenance, overlap, direction-freezing, and inference-layer outputs added on 2026-09-17.
 - `core_analysis/legacy_patches/` — retained audit trail for earlier numerical-function repairs; not the primary execution path.
 - `historical_notes/` — historical manuscript snapshots, manuscript-generation helpers, and older explanatory notes retained for provenance only. These are **not** the authoritative current journal manuscript.
