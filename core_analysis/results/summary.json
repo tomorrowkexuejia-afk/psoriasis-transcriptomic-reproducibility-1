@@ -1,0 +1,35 @@
+{
+  "ReviewTimeUTC": "2026-09-07T23:07:20.923888+00:00",
+  "Python": "3.12.13",
+  "NumPy": "2.3.5",
+  "SciPy": "1.17.0",
+  "OriginalDevelopmentTests": 202,
+  "RecomputedDevelopmentTests": 202,
+  "PendingDevelopmentTests": 0,
+  "DevelopmentMismatches": 0,
+  "MaxDevelopmentDifference": 2.3383961433864897e-11,
+  "HoldoutClaims": 39,
+  "HoldoutUniqueGenes": 36,
+  "HoldoutMismatches": 2,
+  "MaxHoldoutDifference": 0.6008453972273804,
+  "HoldoutMedianAUC": 1.0,
+  "HoldoutMedianHedgesG": 3.0649780103139137,
+  "HoldoutPublishedDirectionConcordant": 35,
+  "HoldoutPreSignConcordant": 36,
+  "HoldoutUniquePerfectAUC": 21,
+  "HoldoutEffectCICrossesZero": [
+    "UGGT1",
+    "MMP9",
+    "GYS1",
+    "TLN1",
+    "IRF1"
+  ],
+  "REMLRecomputedFromSuppliedEstimates": 39,
+  "REMLPending": 0,
+  "PostHocPIClassifications": {
+    "CROSSES_ZERO": 21,
+    "POSITIVE": 18
+  },
+  "HoldoutSHA256": "ffd0d44ff410fcc22b0f2632812253618884a228a6280cbcf4603fedc6176cc6",
+  "ImportantScope": "Historical original-grid arithmetic module. External reconstruction of target preprocessing and source eligibility is recorded separately under evidence/ and source_adjudicated_subset tables. This module alone does not validate source independence."
+}

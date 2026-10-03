@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite it as below."
+type: dataset
+title: "Reproducibility archive for dataset provenance, sample overlap and direction preservation in cross-cohort reproducibility of transcriptomic biomarker claims: an empirical methodological study in psoriasis"
+abstract: >-
+  This repository contains processed analysis inputs, claim-level eligibility decisions,
+  cross-accession sample-overlap exclusions, reproducible analysis code, numerical outputs,
+  sensitivity analyses, paired audit-impact analyses, and publication figures supporting an
+  empirical methodological study of transcriptomic biomarker reproducibility in psoriasis.
+  The final source-adjudicated development analysis contains 33 paper-gene claims representing
+  32 genes and 176 eligible cohort contributions. The archive also contains a separate small
+  RNA-seq boundary cohort and complete provenance and audit materials.
+authors:
+  - family-names: "Wang"
+    given-names: "Xiuxiu"
+    affiliation: "Department of Dermatology, Huashan Hospital, Fudan University, Shanghai, China"
+  - family-names: "Chen"
+    given-names: "Liqin"
+    affiliation: "Department of Dermatology, Huashan Hospital, Fudan University, Shanghai, China"
+  - family-names: "Han"
+    given-names: "Ling"
+    affiliation: "Department of Dermatology, Huashan Hospital, Fudan University, Shanghai, China"
+    email: "xiuhanling@163.com"
+  - family-names: "Yu"
+    given-names: "Ning"
+    affiliation: "Department of Dermatology, Huashan Hospital, Fudan University, Shanghai, China"
+    email: "ning_yu@fudan.edu.cn"
+version: 1.0.0
+date-released: "2026-09-17"
+license: CC-BY-4.0
+repository-code: "https://github.com/REPLACE_WITH_YOUR_USERNAME/psoriasis-transcriptomic-reproducibility"
+keywords:
+  - reproducibility
+  - transcriptomics
+  - psoriasis
+  - biomarker
+  - dataset provenance
+  - sample overlap
+  - meta-analysis
+  - public data
+identifiers:
+  - type: doi
+    value: "REPLACE_WITH_ZENODO_DOI_AFTER_MINTING"
+    description: "Zenodo DOI for this archived release. Fill in after Zenodo assigns it; do not invent a DOI."
+preferred-citation:
+  type: article
+  title: "Dataset provenance, sample overlap and direction preservation in cross-cohort reproducibility of transcriptomic biomarker claims: an empirical methodological study in psoriasis"
+  authors:
+    - family-names: "Wang"
+      given-names: "Xiuxiu"
+    - family-names: "Chen"
+      given-names: "Liqin"
+    - family-names: "Han"
+      given-names: "Ling"
+    - family-names: "Yu"
+      given-names: "Ning"
+  year: 2026

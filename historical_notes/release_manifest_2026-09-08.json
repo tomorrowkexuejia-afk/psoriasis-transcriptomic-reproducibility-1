@@ -1,0 +1,667 @@
+[
+  {
+    "Path": "README_先读.md",
+    "SHA256": "c8d6bb637fe6d562c97eb8aad55ef8d44073cbe1e575e6f11c00d5a9fd107411",
+    "Bytes": 3938
+  },
+  {
+    "Path": "amended_summary.json",
+    "SHA256": "2cb24054c4c280a7e5869dd4ef24edd7e3f41ce76eb0779026985278e8c1130a",
+    "Bytes": 1917
+  },
+  {
+    "Path": "code/audit_mapping.py",
+    "SHA256": "1fbf126c2886505c7442a6dc4bf1914717e5dd8e8f9d2926051556d8ac3a68a3",
+    "Bytes": 5155
+  },
+  {
+    "Path": "code/build_corrected_outputs.py",
+    "SHA256": "57a95a82ef2ddbb7dcd1735ce028147b7d1e198a0492faff610f4afea0432a9c",
+    "Bytes": 11798
+  },
+  {
+    "Path": "code/build_manuscript.py",
+    "SHA256": "ffc3c0d7ec4109d70fbb37344e8dc7b85ca5bc6e4ee10c292a62e3b4f7ba62f5",
+    "Bytes": 42539
+  },
+  {
+    "Path": "code/paper_text.py",
+    "SHA256": "a76c0481aab5e68e7af85dcada3d325a0573a9744bb91e02f32bc27ec0e0fa1f",
+    "Bytes": 29114
+  },
+  {
+    "Path": "code/recompute.py",
+    "SHA256": "fb31c5c87f7cd68f67bda11419bdae182b9ab906877dba32c46c5e823ccdc96f",
+    "Bytes": 16541
+  },
+  {
+    "Path": "code/run_corrected_analysis.py",
+    "SHA256": "1c359ceace2e791426c77a925695fa7b16e1b9be7fc4dd12b38b23c82190408e",
+    "Bytes": 8241
+  },
+  {
+    "Path": "code/run_pipeline.py",
+    "SHA256": "360b81daadd7d365edd1ed3d2091371cff2b0cd17be9b527b6ddfa62db92a9d0",
+    "Bytes": 877
+  },
+  {
+    "Path": "code/verify_deposited_microarray.py",
+    "SHA256": "f6c0ae6f57561b0fa86d5281afbfd12ceefebc4bdc4fe922ae2323e0968fa59a",
+    "Bytes": 2637
+  },
+  {
+    "Path": "code/verify_deposited_rnaseq.py",
+    "SHA256": "75c8849891344f3a75aeec10d7a1a1d7d42d0c425213d259435f5261b9b1a47a",
+    "Bytes": 2817
+  },
+  {
+    "Path": "code/verify_release.py",
+    "SHA256": "646d46c5ad45271489c80320d12c365d4c408161705a13380aacc4bf7f834d4c",
+    "Bytes": 3816
+  },
+  {
+    "Path": "evidence/GSE121212_metadata.soft",
+    "SHA256": "25e0ba5e0bce1d9aff3d3f2352b4c11acc1c3524f4523bae6c3ed9459e58ab3e",
+    "Bytes": 330002
+  },
+  {
+    "Path": "evidence/GSE13355_metadata.soft",
+    "SHA256": "ad788122af619fd6b2efe4ef5c2cb573013287cf12d4637e5ee067df42745c58",
+    "Bytes": 435645
+  },
+  {
+    "Path": "evidence/GSE14905_metadata.soft",
+    "SHA256": "23af658d0519a0a3de8551f1a4ad5ba8e993b972863f56e79e6af943613b1dd3",
+    "Bytes": 178710
+  },
+  {
+    "Path": "evidence/GSE201827_metadata.soft",
+    "SHA256": "6390dba49870d596e59f0e8dd8b8f20b69db9751f780464094e67eb293163846",
+    "Bytes": 802464
+  },
+  {
+    "Path": "evidence/GSE295540_metadata.soft",
+    "SHA256": "c05cb437b253db710c970776b204dbc78abd10136c40f5922b5bd9b9999e0c7d",
+    "Bytes": 27628
+  },
+  {
+    "Path": "evidence/GSE54456_MAoverlappedsamples.txt.gz",
+    "SHA256": "d61b74499dcf4d359399a434ee423cc1d5627822fb138b763b1dd54d9f3a272d",
+    "Bytes": 175
+  },
+  {
+    "Path": "evidence/GSE54456_metadata.soft",
+    "SHA256": "16b935caaa89bb0bb60b100ba69020fda86918508fb854fa99a002cd7c441e57",
+    "Bytes": 656640
+  },
+  {
+    "Path": "evidence/GSE66511_metadata.soft",
+    "SHA256": "844a9e2b1b8efe5f863cf144645f1d6f2245d1c21beb387637a346869623299d",
+    "Bytes": 100794
+  },
+  {
+    "Path": "evidence/GSE78097_metadata.soft",
+    "SHA256": "54696355367904850154098643ea6c2eb4c3f0b55130c256b6bc6cef9e3e0186",
+    "Bytes": 69232
+  },
+  {
+    "Path": "evidence/Liu_2025_JCMM_70945_supplementary_figures.zip",
+    "SHA256": "d8a001c1b538b45292c7f49cd6fea9dd6e3556999e5756ad2942b311bfcd5a01",
+    "Bytes": 7963082
+  },
+  {
+    "Path": "evidence/correction_environment.json",
+    "SHA256": "eb7336ac026b66c7a6dd1a3bd9c77326f08c35621d596671813de4f64b42bb68",
+    "Bytes": 210
+  },
+  {
+    "Path": "evidence/current_evidence_status.json",
+    "SHA256": "00f6d385db6a255cd3138f4c0ce75dbf0d8faac27a1cb0c54001ccfe894113b0",
+    "Bytes": 498
+  },
+  {
+    "Path": "evidence/deliverable_verification.json",
+    "SHA256": "83a7664bc758a479419c1c130ad6f83a47ff4a59043b39a7c04f87ae3a18a8b9",
+    "Bytes": 478
+  },
+  {
+    "Path": "evidence/deposited_microarray_preprocessing_check.csv",
+    "SHA256": "79fcc453e3514a9157e0b6fe4aa18f3edc777c9f97e6c9a18847e099a6f5a91d",
+    "Bytes": 5272
+  },
+  {
+    "Path": "evidence/deposited_rnaseq_preprocessing_check.csv",
+    "SHA256": "f7d8e10af8b5aa073ba16c81b68356d2bc52963878316c717db54b0924e85d80",
+    "Bytes": 5919
+  },
+  {
+    "Path": "evidence/deposited_source_manifest.csv",
+    "SHA256": "7265d3061ef4be39b851c6b1953fc004e77eb35b1159100aebc00a3884c9ecdd",
+    "Bytes": 1854
+  },
+  {
+    "Path": "evidence/external_evidence_decisions.csv",
+    "SHA256": "9963754f7ca5c4e2e300c388692cb1bd45b6af94d2caa3b83fdb69b01de1030d",
+    "Bytes": 2731
+  },
+  {
+    "Path": "evidence/included_paper_bibliography_check.csv",
+    "SHA256": "ab0fe638400c0b7181df2e74d9e32f06c5065216ad9b90793fcf734ed6c4ec39",
+    "Bytes": 4520
+  },
+  {
+    "Path": "evidence/official_overlap_check.json",
+    "SHA256": "5c76d4c9c1d875f47602639a718869de25b4754b27360336a6fc3041e1e4e644",
+    "Bytes": 74
+  },
+  {
+    "Path": "evidence/regression_verification.json",
+    "SHA256": "0d2af7cb17c8b66fb13c54937eebef15259963a811045703eae0806b0005cf1b",
+    "Bytes": 1339
+  },
+  {
+    "Path": "evidence/retrieved_utc.txt",
+    "SHA256": "537249197126eca02dc155765a0c4a93ae8d9df3bde6dd18a1679a82a9b25633",
+    "Bytes": 32
+  },
+  {
+    "Path": "evidence/supplement_source_attribution.txt",
+    "SHA256": "aa587d9f96f6f7f45414992e80b70f98b834ef8e6aa6f5159a769ca0f849e3a2",
+    "Bytes": 469
+  },
+  {
+    "Path": "figures/Figure1_Provenance_Audit_Flow.pdf",
+    "SHA256": "36c6e96b8db76dc02bbc3d8a0b7788cfc3b792ac3442d4ebecd90371a5866653",
+    "Bytes": 14246
+  },
+  {
+    "Path": "figures/Figure1_Provenance_Audit_Flow.png",
+    "SHA256": "cedc8674f231ec5f61b738cb2cbf715fe063e5c2cc87e0f11f2c88cf111b2648",
+    "Bytes": 238571
+  },
+  {
+    "Path": "figures/Figure1_Provenance_Audit_Flow.svg",
+    "SHA256": "e12cf1ef22fb7eb0dc6818e405fc340d8827ca39934488214df3e1f23c163cd0",
+    "Bytes": 6142
+  },
+  {
+    "Path": "figures/Figure2_Adjudicated_AUC.pdf",
+    "SHA256": "966bb6d1a442ee07e96852118fb5898294d9100a252a4dd4c0e17f6e9ca1b75d",
+    "Bytes": 23411
+  },
+  {
+    "Path": "figures/Figure2_Adjudicated_AUC.png",
+    "SHA256": "51d7195de4f28f0382d0c92f099b6212111de16edddd33bd29a93da3ce044c95",
+    "Bytes": 122173
+  },
+  {
+    "Path": "figures/Figure2_Adjudicated_AUC.svg",
+    "SHA256": "2fe7ab5e2338e830e9e5d4eba1523577cb3712f257bf63ace1e180aa79164ef4",
+    "Bytes": 43653
+  },
+  {
+    "Path": "figures/Figure3_Adjudicated_Interval_Sensitivity.pdf",
+    "SHA256": "5b7602ac1863653047343253760f846f3e200499447edcb5b4d9c4f16d62c32c",
+    "Bytes": 19673
+  },
+  {
+    "Path": "figures/Figure3_Adjudicated_Interval_Sensitivity.png",
+    "SHA256": "92776678f6e03a8e8beed3e260ff35b24c421aa86f6572198505253d202db42a",
+    "Bytes": 122988
+  },
+  {
+    "Path": "figures/Figure3_Adjudicated_Interval_Sensitivity.svg",
+    "SHA256": "67a4fe09498b211947fd9eccabcc02d571d07e7a3311210b422cf8c2f56b4f61",
+    "Bytes": 18544
+  },
+  {
+    "Path": "figures/Figure4_TLN1_GYS1_Provenance_Qualified.pdf",
+    "SHA256": "b7a117fe987da393d530e53723a61bd591d8882e0549b2fc62358ed3c97c7f4f",
+    "Bytes": 23427
+  },
+  {
+    "Path": "figures/Figure4_TLN1_GYS1_Provenance_Qualified.png",
+    "SHA256": "c8dcd69cbc6a2b141762db7e203929064b218d43ad32d1db152c2d05b0db5459",
+    "Bytes": 148614
+  },
+  {
+    "Path": "figures/Figure4_TLN1_GYS1_Provenance_Qualified.svg",
+    "SHA256": "bbc7af58b6aac3391d025fbc11fd4559a5d21077a127a46e7a34d09f14cd8c42",
+    "Bytes": 27024
+  },
+  {
+    "Path": "figures/FigureS1_Adjudicated_Forest.pdf",
+    "SHA256": "c7beca01396a3f452b3cc8fecd14eee62352530301eed5a502753922801ac57f",
+    "Bytes": 21392
+  },
+  {
+    "Path": "figures/FigureS1_Adjudicated_Forest.png",
+    "SHA256": "7544a06992cb2b25b3f380ebef10b80948fc1dcf251c9d096cfe56598ac18624",
+    "Bytes": 131216
+  },
+  {
+    "Path": "figures/FigureS1_Adjudicated_Forest.svg",
+    "SHA256": "4e8d6e923d92e4634f702e0b0184e42ac85ff97dccda4ae3a8cc2bbb0c3af520",
+    "Bytes": 44285
+  },
+  {
+    "Path": "input_manifest.json",
+    "SHA256": "8978ac37a86a83cf32a4da5db0bbe548910143e980281c34e15fcaa673e395b5",
+    "Bytes": 2694
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE121212_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "d04546cbdafc0bb4d4ef609cd1d4226e9ed575d63117ac4e0a5a83498f77380d",
+    "Bytes": 190937
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE13355_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "51e56a8839e91737a636a54394781a067eb7bbf920e3fcdeb62ac72fd836cc77",
+    "Bytes": 249769
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE14905_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "0a6838fcafead09df427d4db95ca6d5979042350febac6be998ac816b5e44c46",
+    "Bytes": 137668
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE201827_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "71e3589d3ec8d41ed824a188997c445409fd02054e846e8549f88bb9df603683",
+    "Bytes": 222811
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE54456_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "bd36d86962c1761383688dbcb3910d7e36f619ccff3a9aead8dfbed318739554",
+    "Bytes": 499782
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE66511_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "8f2fb7d2e60121301a062154af4dcf1ccf8ea1fa3e8120e12e61594ba4732efe",
+    "Bytes": 67242
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE78097_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "3b4ff58633d4130da765a64de4428d80ac24cb8c7dfc40a07205e81428844c93",
+    "Bytes": 85262
+  },
+  {
+    "Path": "inputs/upload/GSE13355_GSE54456_DETERMINISTIC_SHARED_FROZEN.csv",
+    "SHA256": "c523fa7f2ab3fab96d1f6aa521873abcf1ef76c22424d1cbf4bd4e6b8367d16d",
+    "Bytes": 5689
+  },
+  {
+    "Path": "inputs/upload/GSE295540_raw_counts_All_samples.csv.gz",
+    "SHA256": "ffd0d44ff410fcc22b0f2632812253618884a228a6280cbcf4603fedc6176cc6",
+    "Bytes": 1097924
+  },
+  {
+    "Path": "inputs/upload/GSE295540_sample_phenotype_map_FINAL_FROZEN.csv",
+    "SHA256": "caff00a0362f31be843aecfa67a3e5e2070acf07d1be6cff267e26e17593bc91",
+    "Bytes": 2898
+  },
+  {
+    "Path": "inputs/upload/GSE295540_target_nomenclature_FINAL_FROZEN.csv",
+    "SHA256": "5831e19ea5ed18b01969310b1d6ad9839fe498af0ad2f4ec5e6951d43883d908",
+    "Bytes": 3558
+  },
+  {
+    "Path": "inputs/upload/GSE54456_STAGE4_EXCLUSION_SET_SHARED_42_FROZEN.csv",
+    "SHA256": "2fe6258250d934428f4c6dc5688320682105f409886239629a4cce31f8012f2d",
+    "Bytes": 2941
+  },
+  {
+    "Path": "inputs/upload/Stage4A_SingleGene_PerCohort_Bundle.zip",
+    "SHA256": "df1bb08809a91e43306060d069287d47476377cba99227be49411c4060afe736",
+    "Bytes": 21260
+  },
+  {
+    "Path": "inputs/upload/Stage4F_ManuscriptReady_Bundle.zip",
+    "SHA256": "156da3e31ec0c902bd79fe7ea20e6856df8549db7ee574837f9acc5d39b39510",
+    "Bytes": 14956
+  },
+  {
+    "Path": "inputs/upload/Stage5B_FinalTemporalHoldout_Bundle.zip",
+    "SHA256": "b7f93630e62d10c71a715c76ad2cf506bac278e4b5999746c3d97256a0bbb6f3",
+    "Bytes": 11520
+  },
+  {
+    "Path": "inputs/upload/planned_single_gene_tests_STAGE4_INPUT_FROZEN.csv",
+    "SHA256": "87186a2292ba78ab8879d4b23d5fc09d2b60e037fc1ddd52801de5175bcc6b6b",
+    "Bytes": 31802
+  },
+  {
+    "Path": "legacy_patches/patch_inventory.json",
+    "SHA256": "8d8fc8422533a0763aed504f7c19d81a91d31bee699a13c4725a255158668d59",
+    "Bytes": 1056
+  },
+  {
+    "Path": "legacy_patches/stage4/Stage4D-PsoriasisBiomarker-AUCAttenuationRandomEffects.ps1",
+    "SHA256": "5a1632fe0aee2cb073a9b5a5f103ee11a7b5b061740d8abe4297141718fbf1db",
+    "Bytes": 18048
+  },
+  {
+    "Path": "legacy_patches/stage4/Stage4E-PsoriasisBiomarker-RobustnessSensitivity.ps1",
+    "SHA256": "0b8b889c0ed281c55ab9d6ad5601dfb26c7cb97c2177e691770adf29b4f5f1ec",
+    "Bytes": 18726
+  },
+  {
+    "Path": "legacy_patches/stage4/stage4d_auc_attenuation_random_effects.py",
+    "SHA256": "9f010234cc68abb2c940b0561c54b5845854ecfd53ab94d1081155e3e3c48c98",
+    "Bytes": 16373
+  },
+  {
+    "Path": "legacy_patches/stage4/stage4d_auc_attenuation_random_effects.py.diff",
+    "SHA256": "d41784cd2808bb98c8472327e900f9d663122d98726b7dcb71722f7a7ac31a0f",
+    "Bytes": 845
+  },
+  {
+    "Path": "legacy_patches/stage4/stage4e_primary_robustness.py",
+    "SHA256": "9ddf80de0e944c9096384ee34e34f605b070d041d4e1c5376b51d5b8aca18a07",
+    "Bytes": 17077
+  },
+  {
+    "Path": "legacy_patches/stage4/stage4e_primary_robustness.py.diff",
+    "SHA256": "5f3f2d17198dd04f34b5844a6dd937137067d43416e4b884ffa9e5c989f8dd23",
+    "Bytes": 1010
+  },
+  {
+    "Path": "legacy_patches/stage5/Stage5B-PsoriasisBiomarker-FinalTemporalHoldout.ps1",
+    "SHA256": "b292126652f46a4df33fc202939246fba3ebc9b5259e777d3357d9682da797ee",
+    "Bytes": 28543
+  },
+  {
+    "Path": "legacy_patches/stage5/Stage5B-Recovery-PsoriasisBiomarker-FinalTemporalHoldout.ps1",
+    "SHA256": "61950ff2dbb200eef4fa581f1dda08838331510bcd9b74ae341e1a776cd61aee",
+    "Bytes": 33702
+  },
+  {
+    "Path": "legacy_patches/stage5/Stage5C-PsoriasisBiomarker-PostHoldoutUpdatedSynthesis.ps1",
+    "SHA256": "1ae728207dee366f8c6d298b3e1b11fe7aec928f7b5cf6714ed54c02020fc97c",
+    "Bytes": 16541
+  },
+  {
+    "Path": "legacy_patches/stage5/stage5b_final_temporal_holdout.py",
+    "SHA256": "2a5a3049d5589d0aa2a28bef31f6031fa8b32b587188554c6d3679c64f246840",
+    "Bytes": 26824
+  },
+  {
+    "Path": "legacy_patches/stage5/stage5b_final_temporal_holdout.py.diff",
+    "SHA256": "ca8b1d74ab986fe4a616322ebec3b69cccc94b9378f652392ab7b82570f74762",
+    "Bytes": 1301
+  },
+  {
+    "Path": "legacy_patches/stage5/stage5b_recovery_final_temporal_holdout.py",
+    "SHA256": "9753b049c2681347201ffd8926bb3558f3184cc0a2bc526e1d488fb12d08e648",
+    "Bytes": 31802
+  },
+  {
+    "Path": "legacy_patches/stage5/stage5b_recovery_final_temporal_holdout.py.diff",
+    "SHA256": "0788b8039f38f74ad19baf2cd7847191e59e7de5a1dfce43d425deba8a7488bf",
+    "Bytes": 1319
+  },
+  {
+    "Path": "legacy_patches/stage5/stage5c_postholdout_updated_synthesis.py",
+    "SHA256": "a548b698c99b7cba004f99ac9e168b46628fdfc96bddfa395876f3c411fcae84",
+    "Bytes": 14826
+  },
+  {
+    "Path": "legacy_patches/stage5/stage5c_postholdout_updated_synthesis.py.diff",
+    "SHA256": "26569524edf573de08d07c10df9be68ff9f78c8c4d6bad259442249a8c0f379c",
+    "Bytes": 1036
+  },
+  {
+    "Path": "manuscript/Psoriasis_Manuscript_Submission_Focused.docx",
+    "SHA256": "a647fab2469adcd644756097363953a5db9120013ab6ee3d3e8f265adf037cf5",
+    "Bytes": 1408206
+  },
+  {
+    "Path": "manuscript/Psoriasis_Manuscript_Submission_Focused.pdf",
+    "SHA256": "b6e815be8137127b6007665f092182f7c6dcb7b43a2cd72d3675f23fa4cde2dc",
+    "Bytes": 1062872
+  },
+  {
+    "Path": "manuscript/paragraph_changes.json",
+    "SHA256": "195047bbcd2c0abde24a58ce887899e4dea1d7eab50636b352e7687412c3448b",
+    "Bytes": 76312
+  },
+  {
+    "Path": "reference/Original_Manuscript.docx",
+    "SHA256": "52fe06e9af15a5892840d07a5cda8ab9c9605b4a30cb2d6a62e8e61392ce6ee1",
+    "Bytes": 1087243
+  },
+  {
+    "Path": "requirements.txt",
+    "SHA256": "815360a00e0e1d7a128cade3de11b66d3fe997cbd6e2c69f8081eb9bc8b88197",
+    "Bytes": 46
+  },
+  {
+    "Path": "requirements_manuscript.txt",
+    "SHA256": "deedabb4d330d1bf0a213c0bc594ad765f91248be7e7ed0d3cae8f8a80286db5",
+    "Bytes": 19
+  },
+  {
+    "Path": "results/GSE295540_holdout_results_CORRECTED_REVIEW.csv",
+    "SHA256": "80f61873b577f20f5cbd4ff16c4ca63bfacf614cacc489c68a7cc9f417f3f635",
+    "Bytes": 11708
+  },
+  {
+    "Path": "results/S100A9_alias_collision_diagnostic.csv",
+    "SHA256": "2bab7c84648b52972edeb786be174a047b69954b63906af4d06753d6a6702985",
+    "Bytes": 669
+  },
+  {
+    "Path": "results/complete_summary.json",
+    "SHA256": "3946d100516fdd9c8f263e9d23098d79eb0cf8762dced1e2338e553dd6ada97d",
+    "Bytes": 1339
+  },
+  {
+    "Path": "results/development_leave_one_cohort_out_corrected.csv",
+    "SHA256": "2a9089bb935e0acbc1abc078798a1793204d3c4b4c8d58541ace72bf42ac1815",
+    "Bytes": 58582
+  },
+  {
+    "Path": "results/development_meta_all39_corrected.csv",
+    "SHA256": "063415b78b2a54c6497c415e733b57d8876a6597d7ad39b601f3f840431a1aa2",
+    "Bytes": 11112
+  },
+  {
+    "Path": "results/development_meta_changes.csv",
+    "SHA256": "d8672b8dd0fb111c1715b4e3aab823f097c3a0871c352b337f3e38f3ac4b401f",
+    "Bytes": 3433
+  },
+  {
+    "Path": "results/development_platform_strata_corrected.csv",
+    "SHA256": "c37d363428084cb832e23f5e31e7e37f02b640515bc52f3d7b7d545e2aa48943",
+    "Bytes": 20404
+  },
+  {
+    "Path": "results/development_recomputed.csv",
+    "SHA256": "8ea63851aa2c86bea538246fd4b4fd13a2d903d633c91b4b3fd1d885bf4043a0",
+    "Bytes": 55139
+  },
+  {
+    "Path": "results/development_sample_inventory.csv",
+    "SHA256": "0b4985a1952c4df5915173c9d7635c1da8ed270930ce1273cc628eb60d4c9e9d",
+    "Bytes": 204
+  },
+  {
+    "Path": "results/holdout_column_diagnostics.csv",
+    "SHA256": "265cfdcce26c5e8416bf91bf5c071a6ab8c964cf8987aae8923108601dadd420",
+    "Bytes": 945
+  },
+  {
+    "Path": "results/holdout_recomputed.csv",
+    "SHA256": "51f0a04929c0eb94d85679477c1a047ac49ef822e0b0ad9470473534121d197f",
+    "Bytes": 9617
+  },
+  {
+    "Path": "results/input_checksums.csv",
+    "SHA256": "f2f23a7c049bf653b8e58fb855a02e1f898fa540b51f906a794ede188f4d5d97",
+    "Bytes": 1634
+  },
+  {
+    "Path": "results/mapping/gene_mapping_audit.csv",
+    "SHA256": "cedeef5f0c3812488c24b93ef8f253922fe664ff6245c0b239b240ee0b0dee17",
+    "Bytes": 1197
+  },
+  {
+    "Path": "results/mapping/input_checksums.csv",
+    "SHA256": "27dd98faa1c528afae1ab5be336e4edde2b693347431cad0823ef1118c5a1bb2",
+    "Bytes": 459
+  },
+  {
+    "Path": "results/mapping/original_alias_mechanism_reproduction.csv",
+    "SHA256": "0e06c77a5a9be30cb9712dd406b40d2ebb670674b96f61e1dc1b55c96789e55d",
+    "Bytes": 3801
+  },
+  {
+    "Path": "results/mapping/sample_column_audit.csv",
+    "SHA256": "8ee6cdaa744d58ddfbbc9cf874ead2b55c9704d08d4183d2229f3ef35b64c65a",
+    "Bytes": 1038
+  },
+  {
+    "Path": "results/mapping/summary.json",
+    "SHA256": "219406b1cba7051be0f23f91eb3ecde6a27c1f6302f0fb1a46a0877cc4347700",
+    "Bytes": 609
+  },
+  {
+    "Path": "results/overlap_sample_check.csv",
+    "SHA256": "8b68b061710a175ca02c5010f1b1d1f259c3196796a817dda5892bd9f8c58fd1",
+    "Bytes": 3184
+  },
+  {
+    "Path": "results/postholdout_meta_all39_corrected.csv",
+    "SHA256": "b01e156cda36c872b6dfa2fa1f4ee3e8d7a177f0ed2f8a796b94e0ab59bfa048",
+    "Bytes": 11098
+  },
+  {
+    "Path": "results/reml_corrected_available_groups.csv",
+    "SHA256": "647227d63138ee128cbc7fef223d00d1bdf22d435e7a717b2297e964cbc31d3f",
+    "Bytes": 14854
+  },
+  {
+    "Path": "results/summary.json",
+    "SHA256": "a5b49a0b691964c59dfda84c3f3e4005e93e9473c6c2d7fe45bc8f5b324b9b74",
+    "Bytes": 1220
+  },
+  {
+    "Path": "results/synthesis_per_cohort_inputs_corrected.csv",
+    "SHA256": "ad9f37311d4936a3e1fd317096744d10bf15023bab868ca0b7ea5f5310f1c4b8",
+    "Bytes": 55177
+  },
+  {
+    "Path": "tables/Manuscript_Table_1.csv",
+    "SHA256": "299a95c9529994b64f36f1e4c3585e9960045d53171ba541fd5c2112f4019d94",
+    "Bytes": 989
+  },
+  {
+    "Path": "tables/Manuscript_Table_2.csv",
+    "SHA256": "f90dacc45784641050662c628512903bf57fb7a122d6c4641193085d513210f5",
+    "Bytes": 866
+  },
+  {
+    "Path": "tables/Manuscript_Table_3.csv",
+    "SHA256": "c8151d57799abf0820d11cd5435591aee8c8fe3f5f1bddad7ee49d4662f78d73",
+    "Bytes": 486
+  },
+  {
+    "Path": "tables/Manuscript_Table_4.csv",
+    "SHA256": "e6572d3427da0710ff2f1986ffc85b237ee553e219a2004cd36567783c38bd0b",
+    "Bytes": 2793
+  },
+  {
+    "Path": "tables/Manuscript_Table_5.csv",
+    "SHA256": "1d7cc7d95c03971a9ac587dfff59fef2ab5eb517a878a78f58558405b3ed377e",
+    "Bytes": 1415
+  },
+  {
+    "Path": "tables/Manuscript_Table_6.csv",
+    "SHA256": "d7b595dce4dd62450afd9864aa50c3daa5b503e9304ffe5a9ca04bb7536e1caf",
+    "Bytes": 352
+  },
+  {
+    "Path": "tables/S1_eligibility_amendment.csv",
+    "SHA256": "6298f43c8ef6218be43cccaf8634a37a074b97d431947166de9b0bf3352eb1f1",
+    "Bytes": 36365
+  },
+  {
+    "Path": "tables/S2_original_202_tests_arithmetic_reproduction.csv",
+    "SHA256": "8ea63851aa2c86bea538246fd4b4fd13a2d903d633c91b4b3fd1d885bf4043a0",
+    "Bytes": 55139
+  },
+  {
+    "Path": "tables/S3_corrected_holdout_39_claims.csv",
+    "SHA256": "51f0a04929c0eb94d85679477c1a047ac49ef822e0b0ad9470473534121d197f",
+    "Bytes": 9617
+  },
+  {
+    "Path": "tables/S4_corrected_holdout_36_genes.csv",
+    "SHA256": "67091b5490732bf02d63f665f4cd285053c20ee26e7405540e5b647db9b9fb00",
+    "Bytes": 8958
+  },
+  {
+    "Path": "tables/S5_original_grid_corrected_meta_NOT_INDEPENDENCE_CLEARED.csv",
+    "SHA256": "063415b78b2a54c6497c415e733b57d8876a6597d7ad39b601f3f840431a1aa2",
+    "Bytes": 11112
+  },
+  {
+    "Path": "tables/S7_adjudicated_leave_one_cohort_out.csv",
+    "SHA256": "32b17991171be41e521d10279a639f55cd3be3b49d9e251e69c9a14f531f1145",
+    "Bytes": 44058
+  },
+  {
+    "Path": "tables/S8_adjudicated_platform.csv",
+    "SHA256": "126802f0a99c82554c6a7e143ea80cc2f169d62a949eb6c580d4c6c8b3fe1f26",
+    "Bytes": 15732
+  },
+  {
+    "Path": "tables/S9_adjudicated_small_control_exclusion.csv",
+    "SHA256": "8349b36042e47379fc3cf3928d23cc928974d239c9dd0a8b70e0ed6a39b95009",
+    "Bytes": 8022
+  },
+  {
+    "Path": "tables/confirmed_use_corrections_claim_disposition.csv",
+    "SHA256": "e3c9d30bca795a708fe8650af4cb7a968493556013d2cfe364645259087e2276",
+    "Bytes": 1382
+  },
+  {
+    "Path": "tables/confirmed_use_corrections_cohort_inputs.csv",
+    "SHA256": "74ae01d677192bc35325a317c07ec38b02a8686619677990ebc3c9123de1727f",
+    "Bytes": 46439
+  },
+  {
+    "Path": "tables/confirmed_use_corrections_development_meta.csv",
+    "SHA256": "b38240787c201a1ae8f3d8617c236297cebe08010a6eea8002e8f6f63237cd7b",
+    "Bytes": 8314
+  },
+  {
+    "Path": "tables/confirmed_use_corrections_postholdout_meta.csv",
+    "SHA256": "f47234ad5d75df16423da4c953fbf858948859af565148c4826fe3eab31351cc",
+    "Bytes": 8347
+  },
+  {
+    "Path": "tables/source_adjudicated_subset_claim_disposition.csv",
+    "SHA256": "fcd74f77155b65408860abe8c9cad5db37cbe54a7a08eca43603503421c8dbba",
+    "Bytes": 1393
+  },
+  {
+    "Path": "tables/source_adjudicated_subset_cohort_inputs.csv",
+    "SHA256": "bccb087e8168884dc15012bb5ec9dc333c45b55e6fb8f8caf34c6a7207664981",
+    "Bytes": 45311
+  },
+  {
+    "Path": "tables/source_adjudicated_subset_development_meta.csv",
+    "SHA256": "7a62dab35ea9ac900224d100488adf4f3848d9315e91eed59474db5a9eb06e8c",
+    "Bytes": 8065
+  },
+  {
+    "Path": "tables/source_adjudicated_subset_postholdout_meta.csv",
+    "SHA256": "b86892a7e0995c3e38db04ab0a7d5ae04a51be0e3fd607255064990527c58265",
+    "Bytes": 8106
+  },
+  {
+    "Path": "修改说明与证据状态.md",
+    "SHA256": "fe4a5a734f659978a17d0dab948f84fb79a356a5bc979c32ea57157fc70e215c",
+    "Bytes": 4174
+  }
+]

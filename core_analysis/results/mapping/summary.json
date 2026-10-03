@@ -1,0 +1,14 @@
+{
+  "Targets": 36,
+  "ExactSymbolsPresent": 36,
+  "ExtraAliasMappingGenes": [
+    "S100A9"
+  ],
+  "OriginalResultsReproduced": 39,
+  "MaximumDifference": 1.447197917059384e-11,
+  "PsoriasisColumnsDirectFrozenMatches": 7,
+  "HealthyColumnsAssignedBySuppliedRecovery": 6,
+  "IndividualHealthyGSMsVerified": false,
+  "AdditionalMetricChangesBeyondS100A9": false,
+  "Scope": "Frozen-table and raw-matrix concordance. This local check does not assign individual NL-to-GSM identities. Separately retrieved official GEO records verify the 7/6 groups and public dates; see evidence/external_evidence_decisions.csv."
+}

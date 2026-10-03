@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="488.7pt" height="347.04pt" viewBox="0 0 488.7 347.04" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-08T03:07:39.532886</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 347.04 
+L 488.7 347.04 
+L 488.7 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 30.915 93.02112 
+L 457.785 93.02112 
+Q 461.5794 93.02112 461.5794 90.36 
+L 461.5794 33.8112 
+Q 461.5794 31.15008 457.785 31.15008 
+L 30.915 31.15008 
+Q 27.1206 31.15008 27.1206 33.8112 
+L 27.1206 90.36 
+Q 27.1206 93.02112 30.915 93.02112 
+z
+" clip-path="url(#p292415a333)" style="fill: #f3f5f7; stroke: #415366; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 30.915 179.50752 
+L 234.864 179.50752 
+Q 238.6584 179.50752 238.6584 176.8464 
+L 238.6584 120.2976 
+Q 238.6584 117.63648 234.864 117.63648 
+L 30.915 117.63648 
+Q 27.1206 117.63648 27.1206 120.2976 
+L 27.1206 176.8464 
+Q 27.1206 179.50752 30.915 179.50752 
+z
+" clip-path="url(#p292415a333)" style="fill: #f3f5f7; stroke: #415366; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 258.579 179.50752 
+L 457.785 179.50752 
+Q 461.5794 179.50752 461.5794 176.8464 
+L 461.5794 120.2976 
+Q 461.5794 117.63648 457.785 117.63648 
+L 258.579 117.63648 
+Q 254.7846 117.63648 254.7846 120.2976 
+L 254.7846 176.8464 
+Q 254.7846 179.50752 258.579 179.50752 
+z
+" clip-path="url(#p292415a333)" style="fill: #f3f5f7; stroke: #415366; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 30.915 285.95232 
+L 457.785 285.95232 
+Q 461.5794 285.95232 461.5794 283.2912 
+L 461.5794 216.7632 
+Q 461.5794 214.10208 457.785 214.10208 
+L 30.915 214.10208 
+Q 27.1206 214.10208 27.1206 216.7632 
+L 27.1206 283.2912 
+Q 27.1206 285.95232 30.915 285.95232 
+z
+" clip-path="url(#p292415a333)" style="fill: #f3f5f7; stroke: #415366; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(108.594531 59.246069)">Candidate inventory: 15 papers / 39 claims / 36 genes</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(146.630469 70.443881)">202 candidate paper-gene-cohort tests</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(73.282469 140.133563)">Confirmed source reuse</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(88.549656 151.331375)">17 tests excluded</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(68.988719 162.529188)">5 claims have &lt;3 cohorts</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(287.483563 140.133563)">Additional supplement audit</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(273.271063 151.331375)">INSIG1 supplementary accessions</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(305.637469 162.529188)">1 claim held pending</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(92.64375 241.588763)">Source-adjudicated subset: 13 papers / 33 claims / 32 genes</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(63.108594 252.786575)">176 cohort contributions; overlap removal applied within each synthesis</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(119.95625 263.984388)">Separate RNA-seq holdout: 7 psoriasis / 6 healthy</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 242.409116 90.83346 
+Q 189.807854 103.665026 138.292774 116.231628 
+" style="fill: none; stroke: #415366; stroke-linecap: round"/>
+    <path d="M 142.652804 117.226688 
+L 138.292774 116.231628 
+L 141.70484 113.340641 
+" style="fill: none; stroke: #415366; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 137.14196 177.534663 
+Q 189.805358 196.804748 241.418803 215.690645 
+" style="fill: none; stroke: #415366; stroke-linecap: round"/>
+    <path d="M 238.349638 212.437919 
+L 241.418803 215.690645 
+L 236.975124 216.194342 
+" style="fill: none; stroke: #415366; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 246.298845 90.815593 
+Q 301.26561 103.665509 355.143695 116.260917 
+" style="fill: none; stroke: #415366; stroke-linecap: round"/>
+    <path d="M 351.703989 113.402872 
+L 355.143695 116.260917 
+L 350.793435 117.297855 
+" style="fill: none; stroke: #415366; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 356.295685 177.507863 
+Q 301.267452 196.804291 247.294267 215.730751 
+" style="fill: none; stroke: #415366; stroke-linecap: round"/>
+    <path d="M 251.730736 216.294442 
+L 247.294267 215.730751 
+L 250.407101 212.519791 
+" style="fill: none; stroke: #415366; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="244.35" y="329.8608" transform="rotate(-0 244.35 329.8608)">Cohort eligibility follows source use; original score orientations are preserved.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p292415a333">
+   <rect x="7.2" y="7.2" width="474.3" height="332.64"/>
+  </clipPath>
+ </defs>
+</svg>

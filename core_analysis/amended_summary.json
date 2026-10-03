@@ -1,0 +1,96 @@
+{
+  "confirmed_use_corrections": {
+    "Claims": 34,
+    "Genes": 33,
+    "Papers": 14,
+    "Rows": 180,
+    "Development": {
+      "NormalCI": {
+        "POSITIVE": 33,
+        "NEGATIVE": 1
+      },
+      "mHK": {
+        "POSITIVE": 31,
+        "CROSSES_ZERO": 3
+      },
+      "NormalPI": {
+        "POSITIVE": 31,
+        "CROSSES_ZERO": 3
+      },
+      "PostHoc_t_PI": {
+        "CROSSES_ZERO": 18,
+        "POSITIVE": 16
+      }
+    },
+    "PostHoldout": {
+      "NormalCI": {
+        "POSITIVE": 33,
+        "NEGATIVE": 1
+      },
+      "mHK": {
+        "POSITIVE": 33,
+        "NEGATIVE": 1
+      },
+      "NormalPI": {
+        "POSITIVE": 31,
+        "CROSSES_ZERO": 3
+      },
+      "PostHoc_t_PI": {
+        "CROSSES_ZERO": 12,
+        "POSITIVE": 22
+      }
+    },
+    "MedianG": 2.974627438629138,
+    "MedianI2": 83.38182767172597,
+    "MedianHoldoutAUC": 1.0,
+    "MedianHoldoutG": 2.815930278745215,
+    "PublishedDirectionHoldout": 33
+  },
+  "source_adjudicated_subset": {
+    "Claims": 33,
+    "Genes": 32,
+    "Papers": 13,
+    "Rows": 176,
+    "Development": {
+      "NormalCI": {
+        "POSITIVE": 32,
+        "NEGATIVE": 1
+      },
+      "mHK": {
+        "POSITIVE": 30,
+        "CROSSES_ZERO": 3
+      },
+      "NormalPI": {
+        "POSITIVE": 30,
+        "CROSSES_ZERO": 3
+      },
+      "PostHoc_t_PI": {
+        "CROSSES_ZERO": 17,
+        "POSITIVE": 16
+      }
+    },
+    "PostHoldout": {
+      "NormalCI": {
+        "POSITIVE": 32,
+        "NEGATIVE": 1
+      },
+      "mHK": {
+        "POSITIVE": 32,
+        "NEGATIVE": 1
+      },
+      "NormalPI": {
+        "POSITIVE": 30,
+        "CROSSES_ZERO": 3
+      },
+      "PostHoc_t_PI": {
+        "CROSSES_ZERO": 12,
+        "POSITIVE": 21
+      }
+    },
+    "MedianG": 2.9861985950016394,
+    "MedianI2": 83.45741809863335,
+    "MedianHoldoutAUC": 1.0,
+    "MedianHoldoutG": 2.924611051882079,
+    "PublishedDirectionHoldout": 32
+  }
+}

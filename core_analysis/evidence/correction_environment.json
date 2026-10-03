@@ -1,0 +1,8 @@
+{
+  "DateUTC": "2026-09-07",
+  "Python": "3.12.13",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "matplotlib": "3.10.8",
+  "Scope": "Correction-run versions only; no inference about original analysis versions."
+}

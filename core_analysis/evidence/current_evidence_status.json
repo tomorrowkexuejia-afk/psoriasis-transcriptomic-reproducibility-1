@@ -1,0 +1,16 @@
+{
+  "AnalysisPopulation": {
+    "Claims": 33,
+    "Genes": 32,
+    "Papers": 13,
+    "Contributions": 176
+  },
+  "DevelopmentTargetPreprocessingVerifiedCohorts": 7,
+  "TargetGenesPerCohort": 36,
+  "TLN1GYS1SupplementRetrieved": true,
+  "INSIG1SupplementFullAccessionsResolved": false,
+  "HoldoutPublicDateVerified": "2026-07-21",
+  "OriginalHoldoutAccessChronologyIndependentlyVerified": false,
+  "OriginalFullLiteratureScreeningReconstructed": false,
+  "UnuploadedProjectVersionsReviewed": false
+}

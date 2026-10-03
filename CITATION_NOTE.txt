@@ -1,0 +1,1 @@
+After Zenodo assigns the DOI, cite the archive using the Zenodo-generated citation. Suggested record version: v1.0 (2026-09-17). Do not insert a placeholder DOI into this file before Zenodo assignment.

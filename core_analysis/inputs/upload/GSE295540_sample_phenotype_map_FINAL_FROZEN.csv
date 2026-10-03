@@ -1,0 +1,14 @@
+﻿GSM,Title,FinalPhenotype,FrozenLibraryAlias,FrozenExpressionColumnAliases,MetadataSource,MetadataSourceURL,MetadataFactFrozenBeforeExpressionAccess
+GSM8952536,Psoriasis skin 1,PSORIASIS_LESIONAL_SKIN,PSO1,GSM8952536|PSO1|Psoriasis skin 1,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES
+GSM8952537,Psoriasis skin 2,PSORIASIS_LESIONAL_SKIN,PSO2,GSM8952537|PSO2|Psoriasis skin 2,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES
+GSM8952538,Psoriasis skin 3,PSORIASIS_LESIONAL_SKIN,PSO3,GSM8952538|PSO3|Psoriasis skin 3,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES
+GSM8952539,Psoriasis skin 4,PSORIASIS_LESIONAL_SKIN,PSO4,GSM8952539|PSO4|Psoriasis skin 4,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES
+GSM8952540,Psoriasis skin 5,PSORIASIS_LESIONAL_SKIN,PSO5,GSM8952540|PSO5|Psoriasis skin 5,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES
+GSM8952541,Psoriasis skin 6,PSORIASIS_LESIONAL_SKIN,PSO6,GSM8952541|PSO6|Psoriasis skin 6,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES
+GSM8952542,Psoriasis skin 7,PSORIASIS_LESIONAL_SKIN,PSO7,GSM8952542|PSO7|Psoriasis skin 7,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES
+GSM8952543,Healthy control skin 1,HEALTHY_CONTROL_SKIN,HC1,GSM8952543|HC1|Healthy control skin 1,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES
+GSM8952544,Healthy control skin 2,HEALTHY_CONTROL_SKIN,HC2,GSM8952544|HC2|Healthy control skin 2,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES
+GSM8952545,Healthy control skin 3,HEALTHY_CONTROL_SKIN,HC3,GSM8952545|HC3|Healthy control skin 3,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES
+GSM8952546,Healthy control skin 4,HEALTHY_CONTROL_SKIN,HC4,GSM8952546|HC4|Healthy control skin 4,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES
+GSM8952547,Healthy control skin 5,HEALTHY_CONTROL_SKIN,HC5,GSM8952547|HC5|Healthy control skin 5,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES
+GSM8952548,Healthy control skin 6,HEALTHY_CONTROL_SKIN,HC6,GSM8952548|HC6|Healthy control skin 6,NCBI_GEO_GSE295540_PUBLIC_SERIES_AND_SAMPLE_RECORDS,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295540,YES

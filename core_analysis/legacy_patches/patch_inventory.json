@@ -1,0 +1,42 @@
+[
+  {
+    "File": "stage4d_auc_attenuation_random_effects.py",
+    "REMLPatch": true,
+    "MappingPatch": false,
+    "PowerShellWrappers": [
+      "Stage4D-PsoriasisBiomarker-AUCAttenuationRandomEffects.ps1"
+    ]
+  },
+  {
+    "File": "stage4e_primary_robustness.py",
+    "REMLPatch": true,
+    "MappingPatch": false,
+    "PowerShellWrappers": [
+      "Stage4E-PsoriasisBiomarker-RobustnessSensitivity.ps1"
+    ]
+  },
+  {
+    "File": "stage5c_postholdout_updated_synthesis.py",
+    "REMLPatch": true,
+    "MappingPatch": false,
+    "PowerShellWrappers": [
+      "Stage5C-PsoriasisBiomarker-PostHoldoutUpdatedSynthesis.ps1"
+    ]
+  },
+  {
+    "File": "stage5b_final_temporal_holdout.py",
+    "REMLPatch": false,
+    "MappingPatch": true,
+    "PowerShellWrappers": [
+      "Stage5B-PsoriasisBiomarker-FinalTemporalHoldout.ps1"
+    ]
+  },
+  {
+    "File": "stage5b_recovery_final_temporal_holdout.py",
+    "REMLPatch": false,
+    "MappingPatch": true,
+    "PowerShellWrappers": [
+      "Stage5B-Recovery-PsoriasisBiomarker-FinalTemporalHoldout.ps1"
+    ]
+  }
+]

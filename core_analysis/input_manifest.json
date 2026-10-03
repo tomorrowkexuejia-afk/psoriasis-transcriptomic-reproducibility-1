@@ -1,0 +1,66 @@
+[
+  {
+    "Path": "inputs/data_review/matrices/GSE121212_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "d04546cbdafc0bb4d4ef609cd1d4226e9ed575d63117ac4e0a5a83498f77380d"
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE13355_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "51e56a8839e91737a636a54394781a067eb7bbf920e3fcdeb62ac72fd836cc77"
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE14905_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "0a6838fcafead09df427d4db95ca6d5979042350febac6be998ac816b5e44c46"
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE201827_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "71e3589d3ec8d41ed824a188997c445409fd02054e846e8549f88bb9df603683"
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE54456_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "bd36d86962c1761383688dbcb3910d7e36f619ccff3a9aead8dfbed318739554"
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE66511_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "8f2fb7d2e60121301a062154af4dcf1ccf8ea1fa3e8120e12e61594ba4732efe"
+  },
+  {
+    "Path": "inputs/data_review/matrices/GSE78097_primary_gene_matrix_STAGE3C.csv",
+    "SHA256": "3b4ff58633d4130da765a64de4428d80ac24cb8c7dfc40a07205e81428844c93"
+  },
+  {
+    "Path": "inputs/upload/GSE13355_GSE54456_DETERMINISTIC_SHARED_FROZEN.csv",
+    "SHA256": "c523fa7f2ab3fab96d1f6aa521873abcf1ef76c22424d1cbf4bd4e6b8367d16d"
+  },
+  {
+    "Path": "inputs/upload/GSE295540_raw_counts_All_samples.csv.gz",
+    "SHA256": "ffd0d44ff410fcc22b0f2632812253618884a228a6280cbcf4603fedc6176cc6"
+  },
+  {
+    "Path": "inputs/upload/GSE295540_sample_phenotype_map_FINAL_FROZEN.csv",
+    "SHA256": "caff00a0362f31be843aecfa67a3e5e2070acf07d1be6cff267e26e17593bc91"
+  },
+  {
+    "Path": "inputs/upload/GSE295540_target_nomenclature_FINAL_FROZEN.csv",
+    "SHA256": "5831e19ea5ed18b01969310b1d6ad9839fe498af0ad2f4ec5e6951d43883d908"
+  },
+  {
+    "Path": "inputs/upload/GSE54456_STAGE4_EXCLUSION_SET_SHARED_42_FROZEN.csv",
+    "SHA256": "2fe6258250d934428f4c6dc5688320682105f409886239629a4cce31f8012f2d"
+  },
+  {
+    "Path": "inputs/upload/Stage4A_SingleGene_PerCohort_Bundle.zip",
+    "SHA256": "df1bb08809a91e43306060d069287d47476377cba99227be49411c4060afe736"
+  },
+  {
+    "Path": "inputs/upload/Stage4F_ManuscriptReady_Bundle.zip",
+    "SHA256": "156da3e31ec0c902bd79fe7ea20e6856df8549db7ee574837f9acc5d39b39510"
+  },
+  {
+    "Path": "inputs/upload/Stage5B_FinalTemporalHoldout_Bundle.zip",
+    "SHA256": "b7f93630e62d10c71a715c76ad2cf506bac278e4b5999746c3d97256a0bbb6f3"
+  },
+  {
+    "Path": "inputs/upload/planned_single_gene_tests_STAGE4_INPUT_FROZEN.csv",
+    "SHA256": "87186a2292ba78ab8879d4b23d5fc09d2b60e037fc1ddd52801de5175bcc6b6b"
+  }
+]

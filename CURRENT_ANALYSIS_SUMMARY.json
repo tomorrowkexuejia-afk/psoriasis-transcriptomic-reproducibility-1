@@ -1,0 +1,305 @@
+{
+  "ArchiveVersion": "1.0",
+  "PreparedDate": "2026-09-17",
+  "ArchivedInventory": {
+    "Claims": 39,
+    "Genes": 36,
+    "SourcePapers": 15
+  },
+  "FinalDevelopment": {
+    "Claims": 33,
+    "Genes": 32,
+    "SourcePapers": 13,
+    "CohortContributions": 176
+  },
+  "OverlapCorrection": {
+    "SharedSamplesRemovedFromEachEligibleGSE54456Contribution": 42,
+    "GSE54456PsoriasisAfter": 72,
+    "GSE54456HealthyAfter": 60
+  },
+  "FinalInference": {
+    "NormalCI": {
+      "POSITIVE": 32,
+      "NEGATIVE": 1
+    },
+    "mHKCI": {
+      "POSITIVE": 30,
+      "CROSSES_ZERO": 3
+    },
+    "NormalPI": {
+      "POSITIVE": 30,
+      "CROSSES_ZERO": 3
+    },
+    "tBasedPI": {
+      "CROSSES_ZERO": 17,
+      "POSITIVE": 16
+    }
+  },
+  "AuditImpact": {
+    "ProvenanceAudit": {
+      "SourceUsedCohortTestsExcluded": 17,
+      "PairedFinalClaims": 33,
+      "PairedClaimsWithChangedCohortSet": 2,
+      "PairedClaimsUnchanged": 31,
+      "ChangedClaims": [
+        {
+          "PMID": "41224720",
+          "Gene": "GYS1",
+          "K_Before": 7,
+          "K_After": 6,
+          "G_Before": 2.3024433953883614,
+          "G_After": 2.139883498284147,
+          "NormalCI_Before": "POSITIVE",
+          "NormalCI_After": "POSITIVE",
+          "mHK_Before": "POSITIVE",
+          "mHK_After": "POSITIVE"
+        },
+        {
+          "PMID": "41224720",
+          "Gene": "TLN1",
+          "K_Before": 7,
+          "K_After": 6,
+          "G_Before": -1.3789794258457684,
+          "G_After": -1.1770993324628443,
+          "NormalCI_Before": "NEGATIVE",
+          "NormalCI_After": "NEGATIVE",
+          "mHK_Before": "NEGATIVE",
+          "mHK_After": "CROSSES_ZERO"
+        }
+      ],
+      "NotSufficientlyEvaluable": [
+        {
+          "PMID": "39480805",
+          "Gene": "TYMP",
+          "CandidateK": 4,
+          "RemainingEligibleCohorts": 1,
+          "Status": "FEWER_THAN_3_COHORTS",
+          "Interpretation": "NOT_SUFFICIENTLY_EVALUABLE"
+        },
+        {
+          "PMID": "39480805",
+          "Gene": "NAMPT",
+          "CandidateK": 4,
+          "RemainingEligibleCohorts": 1,
+          "Status": "FEWER_THAN_3_COHORTS",
+          "Interpretation": "NOT_SUFFICIENTLY_EVALUABLE"
+        },
+        {
+          "PMID": "39480805",
+          "Gene": "LCN2",
+          "CandidateK": 4,
+          "RemainingEligibleCohorts": 1,
+          "Status": "FEWER_THAN_3_COHORTS",
+          "Interpretation": "NOT_SUFFICIENTLY_EVALUABLE"
+        },
+        {
+          "PMID": "39480805",
+          "Gene": "S100A8",
+          "CandidateK": 4,
+          "RemainingEligibleCohorts": 1,
+          "Status": "FEWER_THAN_3_COHORTS",
+          "Interpretation": "NOT_SUFFICIENTLY_EVALUABLE"
+        },
+        {
+          "PMID": "39480805",
+          "Gene": "S100A9",
+          "CandidateK": 4,
+          "RemainingEligibleCohorts": 1,
+          "Status": "FEWER_THAN_3_COHORTS",
+          "Interpretation": "NOT_SUFFICIENTLY_EVALUABLE"
+        },
+        {
+          "PMID": "39735895",
+          "Gene": "INSIG1",
+          "CandidateK": 4,
+          "RemainingEligibleCohorts": 0,
+          "Status": "PENDING_SUPPLEMENT",
+          "Interpretation": "PROVENANCE_UNRESOLVED"
+        }
+      ]
+    },
+    "OverlapCorrection": {
+      "AffectedClaims": 30,
+      "GSE54456SampleN_Before": 174,
+      "GSE54456SampleN_After": 132,
+      "RemovedN": 42,
+      "SampleReductionPercent": 24.137931034482758,
+      "MedianAbsDeltaPooledG": 0.03759177053454299,
+      "MaxAbsDeltaPooledG": 0.26310452623540304,
+      "MedianAbsDeltaNormalCIWidth": 0.0581659009958404,
+      "MedianGSE54456REWeightShare_Before": 0.21163783943888384,
+      "MedianGSE54456REWeightShare_After": 0.20989092419174266,
+      "NormalCIClassificationChanges": 0,
+      "mHKClassificationChanges": 0,
+      "NormalPIClassificationChanges": 0,
+      "tPIClassificationChanges": 0
+    },
+    "DirectionFreezing": {
+      "Contributions": 176,
+      "BelowChanceContributions": 5,
+      "AffectedClaims": 1,
+      "AffectedGenes": [
+        "TLN1"
+      ],
+      "FrozenAUCMedian": 0.9772291366041366,
+      "PostHocMaxAUCMedian": 0.9783564814814815,
+      "FrozenAUCRangeAffected": [
+        0.0,
+        0.39915966386554624
+      ],
+      "PostHocAUCRangeAffected": [
+        0.6008403361344538,
+        1.0
+      ]
+    },
+    "InferenceLayer": {
+      "Counts": {
+        "NormalCI": {
+          "POSITIVE": 32,
+          "NEGATIVE": 1
+        },
+        "mHKCI": {
+          "POSITIVE": 30,
+          "CROSSES_ZERO": 3
+        },
+        "NormalPI": {
+          "POSITIVE": 30,
+          "CROSSES_ZERO": 3
+        },
+        "tBasedPI": {
+          "CROSSES_ZERO": 17,
+          "POSITIVE": 16
+        }
+      },
+      "NormalCI_to_mHK_Changes": 3,
+      "NormalCI_to_NormalPI_Changes": 3,
+      "NormalPI_to_tPI_Changes": 14,
+      "NormalCI_to_mHK_ChangedClaims": [
+        {
+          "PMID": "41224720",
+          "Gene": "TLN1",
+          "Before": "NEGATIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "41673685",
+          "Gene": "ITGAL",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "41673685",
+          "Gene": "CD28",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        }
+      ],
+      "NormalCI_to_NormalPI_ChangedClaims": [
+        {
+          "PMID": "38803495",
+          "Gene": "UGGT1",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "41224720",
+          "Gene": "TLN1",
+          "Before": "NEGATIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "42008507",
+          "Gene": "S100A12",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        }
+      ],
+      "NormalPI_to_tPI_ChangedClaims": [
+        {
+          "PMID": "38148887",
+          "Gene": "ADAM23",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "36193416",
+          "Gene": "GJB2",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "38803495",
+          "Gene": "MMP9",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "41224720",
+          "Gene": "GYS1",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "42008507",
+          "Gene": "S100A8",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "41673685",
+          "Gene": "UBE2T",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "41673685",
+          "Gene": "ITGAL",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "41673685",
+          "Gene": "CD28",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "38333021",
+          "Gene": "SPRR1B",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "39310902",
+          "Gene": "AIM2",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "39310902",
+          "Gene": "HPSE",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "39310902",
+          "Gene": "TNFSF10",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "39310902",
+          "Gene": "PYCARD",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        },
+        {
+          "PMID": "40425712",
+          "Gene": "ISG20",
+          "Before": "POSITIVE",
+          "After": "CROSSES_ZERO"
+        }
+      ]
+    }
+  }
+}

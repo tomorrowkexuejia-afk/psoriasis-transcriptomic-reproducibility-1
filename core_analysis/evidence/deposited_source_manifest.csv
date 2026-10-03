@@ -1,0 +1,9 @@
+﻿File,SourceURL,Bytes,RetrievedSHA256,Status
+GPL570.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPLnnn/GPL570/annot/GPL570.annot.gz,8471521,d7cd44352127b1e34f3a720ebea86093ef255a38f1612a85a2962b71bde8f394,TARGET_PREPROCESSING_VERIFIED
+GSE54456_RPKM_samples.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE54nnn/GSE54456/suppl/GSE54456_RPKM_samples.txt.gz,8137881,d33603a9b15136a9b3e9b1746946b6c8f7114579c6a6ba8ded616df44e5b47d9,TARGET_PREPROCESSING_VERIFIED
+GSE66511_Psoriasis_counts.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE66nnn/GSE66511/suppl/GSE66511_Psoriasis_counts.txt.gz,745100,6c9428a9936e8903a1b8f4ba58504c4e4e5de2035050aaf02c10734e7fba09a0,TARGET_PREPROCESSING_VERIFIED
+GSE121212_readcount.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE121nnn/GSE121212/suppl/GSE121212_readcount.txt.gz,5616613,bdcfd8fb24858b4d11a5bed16f8383ba5b9d1203f6855104fc38ce4f1a3e6ca6,TARGET_PREPROCESSING_VERIFIED
+GSE13355_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE13nnn/GSE13355/matrix/GSE13355_series_matrix.txt.gz,35921043,087043c4a620828d65f3055840be9de25bd31306d5caf018ae28ce5d18de6194,TARGET_PREPROCESSING_VERIFIED
+GSE14905_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE14nnn/GSE14905/matrix/GSE14905_series_matrix.txt.gz,24387317,72a61fb743b5bb5cebd7951dac379a50bad0aa9e4d9c0544aea4a72b7547dcb5,TARGET_PREPROCESSING_VERIFIED
+GSE78097_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE78nnn/GSE78097/matrix/GSE78097_series_matrix.txt.gz,7041651,cf46577c856941cdb9c8dc35f9e1471de882622bb675a0f0c4a08aa4fa345bb2,TARGET_PREPROCESSING_VERIFIED
+GSE201827_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE201nnn/GSE201827/matrix/GSE201827_series_matrix.txt.gz,125072525,a724c3bbd2655e01e36d1f18b0f8dd17370ec4be044d09e5cb117bd65133a971,TARGET_PREPROCESSING_VERIFIED

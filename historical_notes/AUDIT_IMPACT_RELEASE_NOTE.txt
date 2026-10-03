@@ -1,0 +1,1 @@
+The paired audit-impact analysis was added on 2026-09-17 after the verified core analysis release dated 2026-09-08. Its script has been integrated into core_analysis/code/audit_impact_analysis.py and its outputs into core_analysis/audit_impact/. The original separate ZIP is not nested here to avoid duplication.

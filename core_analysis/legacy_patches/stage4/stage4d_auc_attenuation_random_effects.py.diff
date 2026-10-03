@@ -1,0 +1,23 @@
+--- original/stage4d_auc_attenuation_random_effects.py
++++ corrected/stage4d_auc_attenuation_random_effects.py
+@@ -1,9 +1,11 @@
++# CORRECTION PATCH 2026-09-07. Preserve original frozen results.
+ 
+ import csv, hashlib, math, statistics, zipfile
+ from collections import Counter, defaultdict
+ from pathlib import Path
+ 
+-ROOT=Path(r"D:\research_d\Dermatology\Psoriasis_Transcriptomic_Biomarker_Repro_Audit")
++import os
++ROOT = Path(os.environ["PSORIASIS_CORRECTION_ROOT"])
+ S4D0=ROOT/"05_results"/"primary"/"stage4d0_synthesis_independence_freeze"
+ OUT=ROOT/"05_results"/"primary"/"stage4d_auc_attenuation_and_random_effects"
+ 
+@@ -160,6 +162,7 @@
+         nxt=upper*4.0
+         fn=f(nxt)
+         if fn >= prev:
++            upper = nxt  # correction: optimum can lie between upper and nxt
+             break
+         upper=nxt
+         prev=fn

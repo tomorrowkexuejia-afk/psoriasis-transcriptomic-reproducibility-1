@@ -1,0 +1,37 @@
+{
+  "Original202ArithmeticMaximumDifference": 2.3383961433864897e-11,
+  "S100A9CorrectedRows": 2,
+  "confirmed_use_corrections": {
+    "Claims": 34,
+    "Contributions": 180
+  },
+  "source_adjudicated_subset": {
+    "Claims": 33,
+    "Contributions": 176
+  },
+  "LegacyNumericalFunctions": [
+    {
+      "File": "legacy_patches/stage4/stage4d_auc_attenuation_random_effects.py",
+      "ComparedClaims": 39,
+      "MaxTau2Difference": 1.6311857038431299e-06
+    },
+    {
+      "File": "legacy_patches/stage4/stage4e_primary_robustness.py",
+      "ComparedClaims": 39,
+      "MaxTau2Difference": 1.6311857038431299e-06
+    },
+    {
+      "File": "legacy_patches/stage5/stage5c_postholdout_updated_synthesis.py",
+      "ComparedClaims": 39,
+      "MaxTau2Difference": 1.6311857038431299e-06
+    }
+  ],
+  "PowerShellEmbeddedPythonMatches": [
+    "Stage4D-PsoriasisBiomarker-AUCAttenuationRandomEffects.ps1",
+    "Stage4E-PsoriasisBiomarker-RobustnessSensitivity.ps1",
+    "Stage5B-PsoriasisBiomarker-FinalTemporalHoldout.ps1",
+    "Stage5B-Recovery-PsoriasisBiomarker-FinalTemporalHoldout.ps1",
+    "Stage5C-PsoriasisBiomarker-PostHoldoutUpdatedSynthesis.ps1"
+  ],
+  "Scope": "Portable analysis outputs and extracted legacy numeric functions verified. Full legacy staged integration is not run because its upstream artifacts are incomplete."
+}

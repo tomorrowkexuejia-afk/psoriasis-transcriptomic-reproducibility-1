@@ -1,0 +1,52 @@
+{
+  "Development": {
+    "PrimaryClassification": {
+      "POSITIVE": 38,
+      "NEGATIVE": 1
+    },
+    "mHK_Classification": {
+      "POSITIVE": 36,
+      "NEGATIVE": 1,
+      "CROSSES_ZERO": 2
+    },
+    "NormalPIClassification": {
+      "POSITIVE": 36,
+      "CROSSES_ZERO": 3
+    },
+    "PostHoc_t_PIClassification": {
+      "CROSSES_ZERO": 21,
+      "POSITIVE": 18
+    }
+  },
+  "PostHoldout": {
+    "PrimaryClassification": {
+      "POSITIVE": 38,
+      "NEGATIVE": 1
+    },
+    "mHK_Classification": {
+      "POSITIVE": 38,
+      "NEGATIVE": 1
+    },
+    "NormalPIClassification": {
+      "POSITIVE": 36,
+      "CROSSES_ZERO": 3
+    },
+    "PostHoc_t_PIClassification": {
+      "CROSSES_ZERO": 13,
+      "POSITIVE": 26
+    }
+  },
+  "DevelopmentPrimaryChanges": 0,
+  "LOCOTests": 202,
+  "LOCOPrimaryClassificationChanges": 0,
+  "PlatformPairedGroups": 31,
+  "PlatformSignDiscordant": 0,
+  "ExcludedSamples": 42,
+  "DirectMappedSamples": 40,
+  "ExtraExcludedSamples": [
+    "GSM1315608",
+    "GSM1315768"
+  ],
+  "AllInputsRecomputedFromMatrices": true,
+  "Scope": "Provided processed development matrices and raw-count holdout; this numeric module retains the original grid and does not clear independence. External preprocessing and provenance checks are separately recorded under evidence/; use amended tables for interpretation."
+}

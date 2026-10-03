@@ -1,0 +1,27 @@
+--- original/stage5b_recovery_final_temporal_holdout.py
++++ corrected/stage5b_recovery_final_temporal_holdout.py
+@@ -1,10 +1,12 @@
++# CORRECTION PATCH 2026-09-07. Preserve original frozen results.
+ 
+ import csv, gzip, hashlib, math, re, statistics, zipfile
+ from collections import Counter, defaultdict
+ from datetime import datetime, timezone
+ from pathlib import Path
+ 
+-ROOT=Path(r"D:\research_d\Dermatology\Psoriasis_Transcriptomic_Biomarker_Repro_Audit")
++import os
++ROOT = Path(os.environ["PSORIASIS_CORRECTION_ROOT"])
+ S5A=ROOT/"00_protocol"/"stage5a_final_temporal_holdout_freeze"
+ RAW=ROOT/"02_data"/"raw_geo"/"GSE295540"
+ OUT=ROOT/"05_results"/"primary"/"stage5b_final_temporal_holdout"
+@@ -100,7 +102,9 @@
+ gid_to_current={clean(r["NCBIGeneID"]):clean(r["NCBICurrentSymbol"]) for r in nom}
+ 
+ # Only aliases unique among the frozen target set are usable.
+-symbol_unique={a:next(iter(gs)) for a,gs in symbol_to_gid.items() if len(gs)==1}
++# Correction release: deposited matrix has all targets as current symbols.
++# Do not aggregate aliases such as the separate MIF gene into S100A9.
++symbol_unique={clean(r["NCBICurrentSymbol"]).upper():clean(r["NCBIGeneID"]) for r in nom}
+ ens_unique={a:next(iter(gs)) for a,gs in ens_to_gid.items() if len(gs)==1}
+ target_gids={clean(r["NCBIGeneID"]) for r in targets}
+ 
