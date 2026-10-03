@@ -35,20 +35,34 @@ A later paired audit-impact analysis quantifies what each of these methodologica
 
 ### Figure naming in this archive vs. the manuscript
 
-The manuscript contains four figures. Their counterparts here are:
+The manuscript contains five figures. Their counterparts here are:
 
 | Manuscript | File in this archive |
 |---|---|
 | Figure 1 | `Figure1_Provenance_Audit_Flow.*` |
 | Figure 2 | `Figure2_Adjudicated_AUC.*` |
-| Figure S1 | `Figure3_Adjudicated_Interval_Sensitivity.*` |
-| Figure S2 | `Figure4_TLN1_GYS1_Provenance_Qualified.*` |
+| Figure S1 | `FigureS1_Adjudicated_Forest_mHK.*` |
+| Figure S2 | `Figure3_Adjudicated_Interval_Sensitivity.*` |
+| Figure S3 | `Figure4_TLN1_GYS1_Provenance_Qualified.*` |
 
-`FigureS1_Adjudicated_Forest.*` is an **additional** claim-level forest plot produced by
-`core_analysis/code/build_corrected_outputs.py`. It is **not** included in the manuscript, and its
-file name predates the current manuscript numbering — read it as an extra output, not as the
-manuscript's Figure S1. The name is retained so that re-running the build script reproduces the
-archived file names byte-for-byte.
+`FigureS1_Adjudicated_Forest_mHK.*` is the claim-level forest plot of the 33 source-adjudicated
+claims drawn with the **modified Hartung-Knapp 95%** interval, which is the manuscript's primary
+inference. It is produced by `core_analysis/code/make_forest_mHK.py` from
+`tables/source_adjudicated_subset_development_meta.csv`; the script asserts the interval
+classifications reported in Section 3.5 (30 intervals entirely above zero, CD28/ITGAL/TLN1 crossing
+zero) before writing. Re-running it reproduces the deposited PNG/SVG/PDF byte-for-byte.
+
+`FigureS1_Adjudicated_Forest.*` is the **conventional normal 95% CI** counterpart of the same
+figure, produced by `build_corrected_outputs.py` (the `Figure3_*` and `Figure4_*` panels of that
+script are the manuscript's Figures S2 and S3). The manuscript reports the normal-interval
+classification in the text of Section 3.5 rather than as a display item, so this file is retained as
+the conventional-interval reference. Its `.png` was re-rendered on 2026-10-03 from the intact vector
+`.pdf`, because the originally deposited PNG was truncated and could only be decoded down to
+approximately one third of its height; the `.pdf` and `.svg` were never affected. The file name is
+retained so that the build script keeps reproducing the archived names byte-for-byte.
+
+Adding the `_mHK` figure files and `make_forest_mHK.py` postdates the Zenodo v1.0.0 deposit; the
+deposited v1.0.0 snapshot is unchanged.
 - `core_analysis/audit_impact/` — paired provenance, overlap, direction-freezing, and inference-layer outputs added on 2026-09-17.
 - `core_analysis/legacy_patches/` — retained audit trail for earlier numerical-function repairs; not the primary execution path.
 - `historical_notes/` — historical manuscript snapshots, manuscript-generation helpers, and older explanatory notes retained for provenance only. These are **not** the authoritative current journal manuscript.
