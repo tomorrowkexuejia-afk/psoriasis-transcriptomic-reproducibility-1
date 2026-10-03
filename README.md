@@ -31,7 +31,24 @@ A later paired audit-impact analysis quantifies what each of these methodologica
 - `core_analysis/evidence/` — GEO metadata, official overlap evidence, source-paper supplementary evidence, preprocessing checks, and source-decision records.
 - `core_analysis/results/` — numerical results from the verified core analysis release.
 - `core_analysis/tables/` — detailed scientific analysis tables and adjudicated cohort/claim outputs.
-- `core_analysis/figures/` — publication figures in PDF/PNG/SVG, including `FigureS1_Adjudicated_Forest.*`.
+- `core_analysis/figures/` — publication figures in PDF/PNG/SVG.
+
+### Figure naming in this archive vs. the manuscript
+
+The manuscript contains four figures. Their counterparts here are:
+
+| Manuscript | File in this archive |
+|---|---|
+| Figure 1 | `Figure1_Provenance_Audit_Flow.*` |
+| Figure 2 | `Figure2_Adjudicated_AUC.*` |
+| Figure S1 | `Figure3_Adjudicated_Interval_Sensitivity.*` |
+| Figure S2 | `Figure4_TLN1_GYS1_Provenance_Qualified.*` |
+
+`FigureS1_Adjudicated_Forest.*` is an **additional** claim-level forest plot produced by
+`core_analysis/code/build_corrected_outputs.py`. It is **not** included in the manuscript, and its
+file name predates the current manuscript numbering — read it as an extra output, not as the
+manuscript's Figure S1. The name is retained so that re-running the build script reproduces the
+archived file names byte-for-byte.
 - `core_analysis/audit_impact/` — paired provenance, overlap, direction-freezing, and inference-layer outputs added on 2026-09-17.
 - `core_analysis/legacy_patches/` — retained audit trail for earlier numerical-function repairs; not the primary execution path.
 - `historical_notes/` — historical manuscript snapshots, manuscript-generation helpers, and older explanatory notes retained for provenance only. These are **not** the authoritative current journal manuscript.
